@@ -1,4 +1,4 @@
-Hosted Link -
+Hosted Link - https://shweta-sharma-1009.github.io/coffee-house/
 
 ![Screenshot (183)](https://github.com/shweta-sharma-1009/coffee-house/assets/128416925/cfc6f0d5-359a-4af0-835c-67acf47863a1)
 ![Screenshot (184)](https://github.com/shweta-sharma-1009/coffee-house/assets/128416925/cd14b281-0440-462b-a629-848c4f2582bf)
